@@ -72,6 +72,10 @@ public class MainFrame extends JFrame implements AppView {
         root.add(resultPanel, CARD_RESULT);
         // examPanel sẽ tạo sau khi login (cần studentId)
 
+
+
+
+
         setContentPane(root);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setMinimumSize(new Dimension(980, 700));
