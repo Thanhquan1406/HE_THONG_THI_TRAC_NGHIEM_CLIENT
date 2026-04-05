@@ -59,7 +59,7 @@ public class SessionPanel extends JPanel {
     private final JLabel welcomeDept = new JLabel("Khoa: -");
     private final JLabel welcomeDate = new JLabel("-");
     private final JLabel statusPill = new JLabel("TRẠNG THÁI: ĐÃ ĐĂNG NHẬP");
-
+// Đây là màn hình quy cế thi
     // Session info card
     private final JLabel sessionSubjectValue = new JLabel("-");
     private final JLabel sessionRoomValue = new JLabel("-");
