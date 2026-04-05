@@ -69,7 +69,7 @@ public class ExamPanelV2 extends JPanel implements AppView {
     private static final int DEFAULT_DURATION_SECONDS = 15 * 60;
     private static final int WARNING_SECONDS = 10;
     private static final int AUTOSAVE_INTERVAL_MS = 5_000;
-
+  // đây là màn hình thi
     private static final Color BG_APP = new Color(0xF6F7F8);
     private static final Color COLOR_PRIMARY = new Color(0x1C74E9);
     private static final Color COLOR_GRAY_100 = new Color(0xF1F5F9);
